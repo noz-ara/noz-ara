@@ -1,5 +1,6 @@
 # 🌌 Sky: Children of the Light ✨🕊️
 **Welcome to my magical repo!** 🌸💫  
+I'm Noz. heheheheheheheheh this magiccc
 Let your creativity soar and your light shine across the sky! 🌙🌈
 
 ---
@@ -19,7 +20,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ---
 
 ## 🎨 Anime & Magical Vibe
-![Anime Magic](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
+![Anime Magic](https://v1.pinimg.com/videos/mc/720p/f9/d0/10/f9d010189e5592ac6d034b773f38006b.mp4)  
 
 ✨ Cute, dreamy, and sparkling vibes everywhere ✨
 
@@ -45,7 +46,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 🌿🌸✨🌙🌸🌿  
 
 ## 💌 Inspirational Quote
-> "Spread your light, and let the world shine with you." 🌌✨
+> "Be lazy and the light will always shine on you. I love laziness." 🌌✨
 
 ---
 
