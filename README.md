@@ -5,8 +5,9 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 
 ---
 
-![Flying Sky](https://media.giphy.com/media/l3vR0X9cbzVq2A92w/giphy.gif)
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/e6/4b/77e64bb4d4fa86ebb9ce1dd3e95281e4.gif" alt="Flying Sky" width="400"/>
+</p>
 ---
 
 ## 🌟 Magical Abilities & Features
@@ -20,7 +21,10 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ---
 
 ## 🎨 Anime & Magical Vibe
-![Anime Magic](https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif)  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" alt="Anime Magic" width="400"/>
+</p>
+ 
 
 ✨ Cute, dreamy, and sparkling vibes everywhere ✨
 
