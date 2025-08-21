@@ -20,7 +20,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ---
 
 ## 🎨 Anime & Magical Vibe
-![Anime Magic](https://v1.pinimg.com/videos/mc/720p/f9/d0/10/f9d010189e5592ac6d034b773f38006b.mp4)  
+![Anime Magic](https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif)  
 
 ✨ Cute, dreamy, and sparkling vibes everywhere ✨
 
