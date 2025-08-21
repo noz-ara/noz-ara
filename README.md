@@ -29,6 +29,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ## 🛠️ Project Tools
 | Tool        | Purpose                          |
 | ----------- | -------------------------------- |
+| Java ☕      | Core project development        |
 | Python 🐍   | Scripts & automation             |
 | Markdown 📝 | Beautiful documentation          |
 | GitHub 💻   | Version control & showcase       |
