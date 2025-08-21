@@ -1,6 +1,6 @@
 # 🌌 Sky: Children of the Light ✨🕊️
 **Welcome to my magical repo!** 🌸💫  
-I'm Noz. heheheheheheheheh this magiccc
+I'm Noz. heheheheheheheheh this is magiccc  
 Let your creativity soar and your light shine across the sky! 🌙🌈
 
 ---
