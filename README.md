@@ -18,27 +18,14 @@
 ---
 
 ## 🛠️ Project Tools
-<table>
-  <tr>
-    <td>
+| Tool        | Purpose                          | <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="300"/> |
+| ----------- | -------------------------------- | ------------------------------------------------------------ |
+| Java ☕      | Core project development        |                                                              |
+| Python 🐍   | Scripts & automation             |                                                              |
+| Markdown 📝 | Beautiful documentation          |                                                              |
+| GitHub 💻   | Version control & showcase       |                                                              |
+| GIFs 🎞️    | Add life and magical feel        |                                                              |
 
-      <!-- Bảng nội dung -->
-      <table>
-        <tr><th>Tool</th><th>Purpose</th></tr>
-        <tr><td>Java ☕</td><td>Core project development</td></tr>
-        <tr><td>Python 🐍</td><td>Scripts & automation</td></tr>
-        <tr><td>Markdown 📝</td><td>Beautiful documentation</td></tr>
-        <tr><td>GitHub 💻</td><td>Version control & showcase</td></tr>
-        <tr><td>GIFs 🎞️</td><td>Add life and magical feel</td></tr>
-      </table>
-
-    </td>
-    <td>
-      <!-- GIF bên phải -->
-      <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="300"/>
-    </td>
-  </tr>
-</table>
 
 
 ---
