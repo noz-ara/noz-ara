@@ -18,17 +18,19 @@
 ---
 
 ## 🛠️ Project Tools
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" alt="Anime Magic" width="788"/>
-</p></br>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <table>
+    <tr><th>Tool</th><th>Purpose</th></tr>
+    <tr><td>Java ☕</td><td>Core project development</td></tr>
+    <tr><td>Python 🐍</td><td>Scripts & automation</td></tr>
+    <tr><td>Markdown 📝</td><td>Beautiful documentation</td></tr>
+    <tr><td>GitHub 💻</td><td>Version control & showcase</td></tr>
+    <tr><td>GIFs 🎞️</td><td>Add life and magical feel</td></tr>
+  </table>
 
-| Tool        | Purpose                          |
-| ----------- | -------------------------------- |
-| Java ☕      | Core project development        |
-| Python 🐍   | Scripts & automation             |
-| Markdown 📝 | Beautiful documentation          |
-| GitHub 💻   | Version control & showcase       |
-| GIFs 🎞️    | Add life and magical feel        |
+  <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" alt="Anime Magic" width="350"/>
+</div>
+
 
 ---
 
