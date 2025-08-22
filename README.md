@@ -6,7 +6,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/e6/4b/77e64bb4d4fa86ebb9ce1dd3e95281e4.gif" alt="Flying Sky" width="400"/>
+  <img src="https://i.pinimg.com/736x/40/f3/13/40f31333b278d763ee3f1e7b5052a056.jpg" alt="Flying Sky" width="400"/>
 </p>
 
 ---
