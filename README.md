@@ -1,9 +1,12 @@
+# <p align="center">Welcome to my magical repo!🌸💫 </p> </br>
+### <p align = "center">I'm Noz.Let your creativity soar and your light shine across the sky! 🌙🌈</p></br>
 <p align="center">
   <img src="https://github.com/noz-ara/noz-ara/blob/main/assets/N%E1%BB%99i%20dung%20%C4%91o%E1%BA%A1n%20v%C4%83n%20b%E1%BA%A3n%20c%E1%BB%A7a%20b%E1%BA%A1n.gif" alt="Sky banner" />
 </p>
-**Welcome to my magical repo!** 🌸💫  
-I'm Noz. heheheheheheheheh this is magiccc  
-Let your creativity soar and your light shine across the sky! 🌙🌈
+
+---
+
+**<p align="center">You only live once, but if you do it right, once is enough. - Mea West </p>**
 
 ---
 
