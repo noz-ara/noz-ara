@@ -6,7 +6,7 @@ Let your creativity soar and your light shine across the sky! 🌙🌈
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/40/f3/13/40f31333b278d763ee3f1e7b5052a056.jpg" alt="Flying Sky" width="400"/>
+  <img src="https://github.com/noz-ara/noz-ara/blob/main/assets/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.gif" alt="Flying Sky" />
 </p>
 
 ---
