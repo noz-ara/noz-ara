@@ -33,9 +33,11 @@
 ---
 
 ## 🎨 Stats & Badges
-![GitHub stars](https://img.shields.io/github/stars/noz-ara/identity-service?style=social)
+<!-- ![GitHub stars](https://img.shields.io/github/stars/noz-ara/identity-service?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/noz-ara/identity-service?style=social)
-![GitHub license](https://img.shields.io/github/license/noz-ara/identity-service)
+![GitHub license](https://img.shields.io/github/license/noz-ara/identity-service) -->
+![Last Update](https://img.shields.io/badge/Last%20Update-22/08/2025%2000:50-blue)
+
 
 ---
 
