@@ -56,3 +56,4 @@
 ## 🔗 Links
 - [GitHub Profile](https://github.com/noz-ara) 💖
 - [Project Repo](https://github.com/noz-ara/noz-ara) ✨
+<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="788"/> 
